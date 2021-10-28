@@ -7,15 +7,23 @@
 - Contact: fragmentbombs@gmail.com
 ------
 ## Toolbox
-Web Development
+- Web Development
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" height="50" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" width="50"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </p>
-Game Development
+
+- Game Development
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="50" width="50"/>
-  <img src="https://simpleicons.org/icons/unrealengine.svg" height="50" width="50"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
+</p>
+
+- Currently Working On...
+<p align="center">
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
 </p>
 
 ------
