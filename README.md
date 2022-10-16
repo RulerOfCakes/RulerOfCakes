@@ -17,6 +17,7 @@
 - Backend Development
 <p align="center">
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot(Kotlin)-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 </p>
 
 - Game Development
@@ -29,7 +30,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=white">
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=Three.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring_Boot(Kotlin)-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 </p>
 
 ------
