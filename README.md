@@ -9,9 +9,7 @@
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=andrewmjk1)](https://solved.ac/andrewmjk1)
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=andrewmjk1&theme=cold)
-- Github stats
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RulerOfCakes&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![CodeForces Profile](https://cf.leed.at?id=rulerofcakes)](https://codeforces.com/profile/rulerofcakes)
 <!--
 **RulerOfCakes/RulerOfCakes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
