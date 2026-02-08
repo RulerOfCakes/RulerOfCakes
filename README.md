@@ -1,7 +1,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FRulerOfCakes&count_bg=%2379C83D&title_bg=%23555555&icon=nucleo.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### Hi there 👋
-- 2025.07 ~ : 🏙 FuriosaAI - Platform Engineer
-- Interests: Games / Graphics / Web / Competitive Programming
+- 2025.07 ~ : 🏙 FuriosaAI - Software Engineer(Inference Engine)
+- Interests: Games / Graphics / Competitive Programming / AI
 - Check out my blog: [here][blog]
 - Contact: fragmentbombs@gmail.com
 ------
